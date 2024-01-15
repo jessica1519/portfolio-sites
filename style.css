@@ -1,0 +1,8 @@
+body {
+  overflow: hidden; /*La overflowproprietà specifica se ritagliare il contenuto o aggiungere barre di scorrimento quando il contenuto di un elemento è troppo grande per adattarsi all'area specificata.hidden- L'overflow verrà tagliato e il resto del contenuto sarà invisibile*/
+  overflow-y: scroll; /*scroll- L'overflow viene tagliato e viene aggiunta una barra di scorrimento per vedere il resto del contenuto*/
+  margin: 0 !important;
+  padding: 0;
+  box-sizing: border-box; /*Se imposti box-sizing: border-box;un elemento, il riempimento e il bordo sono inclusi nella larghezza e nell'altezza*/
+  text-decoration: none;
+}

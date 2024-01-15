@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-sites/static/css/main.4de458fc.chunk.css",
+    "main.js": "/portfolio-sites/static/js/main.f2602dd5.chunk.js",
+    "main.js.map": "/portfolio-sites/static/js/main.f2602dd5.chunk.js.map",
+    "runtime-main.js": "/portfolio-sites/static/js/runtime-main.45243ef9.js",
+    "runtime-main.js.map": "/portfolio-sites/static/js/runtime-main.45243ef9.js.map",
+    "static/js/2.f153d16f.chunk.js": "/portfolio-sites/static/js/2.f153d16f.chunk.js",
+    "static/js/2.f153d16f.chunk.js.map": "/portfolio-sites/static/js/2.f153d16f.chunk.js.map",
+    "index.html": "/portfolio-sites/index.html",
+    "precache-manifest.0ed4daeb1a92ca1e949d5a5b9a5fc19a.js": "/portfolio-sites/precache-manifest.0ed4daeb1a92ca1e949d5a5b9a5fc19a.js",
+    "service-worker.js": "/portfolio-sites/service-worker.js",
+    "static/css/main.4de458fc.chunk.css.map": "/portfolio-sites/static/css/main.4de458fc.chunk.css.map",
+    "static/js/2.f153d16f.chunk.js.LICENSE.txt": "/portfolio-sites/static/js/2.f153d16f.chunk.js.LICENSE.txt",
+    "static/media/investimenti.png": "/portfolio-sites/static/media/investimenti.07a1b016.png",
+    "static/media/motivazionale.png": "/portfolio-sites/static/media/motivazionale.68c77658.png",
+    "static/media/qrCode.png": "/portfolio-sites/static/media/qrCode.ec9d8351.png",
+    "static/media/sitoImgFoto.png": "/portfolio-sites/static/media/sitoImgFoto.359702ba.png",
+    "static/media/woman.png": "/portfolio-sites/static/media/woman.749f5c7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45243ef9.js",
+    "static/js/2.f153d16f.chunk.js",
+    "static/css/main.4de458fc.chunk.css",
+    "static/js/main.f2602dd5.chunk.js"
+  ]
+}
